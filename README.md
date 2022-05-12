@@ -4,6 +4,6 @@
   <img src= "/assets/quality-code.gif">
 </p>
 <p align='center'>
-🕳🐇
+  <a href=https://github.com/DOSputin>🕳🐇</a>
 </p>
 <hr>
