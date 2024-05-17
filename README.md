@@ -7,5 +7,5 @@
 <p align='center'>
   <a href=https://github.com/DOSputin>🕳🐇</a>
 </p>
-<p align='center'><sub>btw; i used NixOS</sub></p>
+<p align='center'><sub>btw; i use NixOS</sub></p>
 <hr>
